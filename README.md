@@ -1,27 +1,58 @@
-# Store
+# PSN Store Clone
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+![PSN Store Clone](readme/cardProject/main.png)
 
-## Development server
+# Índice
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+* [Título e Imagens Home](#)
+* [tecnologias utilizadas](#tecnologias-utilizadas)
+* [Descrição do projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-projeto)
+* [Acesso ao Projeto](#acesso-ao-projeto)
 
-## Code scaffolding
+# Tecnologias utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+# Descrição do Projeto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+O projeto "PSN Store Clone" é projeto do BootCamp Santander Bootcamp 2023 - Fullstack Java+Angular da [Dio](https://web.dio.me/home). Nesse projeto, os alunos têm a oportunidade de aplicar seus conhecimentos no FrameWork Angular
 
-## Running end-to-end tests
+# Status do Projeto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+> 💹 Alpha 💹
 
-## Further help
+# Acesso ao projeto
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Para acessar e executar este projeto, siga os passos abaixo:
+
+1. Certifique-se de ter o Node.js e o npm instalados em sua máquina.
+
+2. Clone o Projeto
+
+```bash
+git clone  PSN
+```
+
+3. Entre no projeto
+
+```bash
+cd https://github.com/EversonDias/Angular-PSN-Store-Clone.git PSN
+```
+
+4. Instale as Dependências
+
+```bash
+npm install
+```
+
+5. inicie o projeto
+
+```bash
+npm start
+```
